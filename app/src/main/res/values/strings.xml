@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">HelpingHands</string>
+    <string name="button_name"> Login </string>
+
 </resources>
