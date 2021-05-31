@@ -13,6 +13,11 @@
             android:name=".Music_Screen"
             android:label="@string/title_activity_music__screen"
             android:theme="@style/Theme.HelpingHands.NoActionBar"></activity>
+        <activity android:name=".Memes"></activity>
+        <activity
+            android:name=".memes_screen"
+            android:label="@string/title_activity_memes_screen"
+            android:theme="@style/Theme.HelpingHands.NoActionBar" />
         <activity android:name=".MainActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
