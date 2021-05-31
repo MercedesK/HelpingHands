@@ -1,5 +1,5 @@
 # HelpingHands
-Helping Hands project
+Helping Hands project: Many teens worldwide struggle with mental health, including ourselves. Our app aims to help some teenagers with their mental health with improvements from our experience. 
 ## Login: 
 Users will login to their account or create an account 
 ## Survey: 
